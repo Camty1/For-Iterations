@@ -1,0 +1,6 @@
+C:\Users\cwolf_000\Documents\GitHub\For-Iterations\For-Iterations\bin\Debug\For-Iterations.exe.config
+C:\Users\cwolf_000\Documents\GitHub\For-Iterations\For-Iterations\bin\Debug\For-Iterations.exe
+C:\Users\cwolf_000\Documents\GitHub\For-Iterations\For-Iterations\bin\Debug\For-Iterations.pdb
+C:\Users\cwolf_000\Documents\GitHub\For-Iterations\For-Iterations\obj\Debug\For-Iterations.csprojResolveAssemblyReference.cache
+C:\Users\cwolf_000\Documents\GitHub\For-Iterations\For-Iterations\obj\Debug\For-Iterations.exe
+C:\Users\cwolf_000\Documents\GitHub\For-Iterations\For-Iterations\obj\Debug\For-Iterations.pdb
